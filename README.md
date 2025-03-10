@@ -1,4 +1,4 @@
-9# Base de Datos de Parque de Atracciones
+# Base de Datos de Parque de Atracciones
 
 Este proyecto crea una base de datos para un parque de atracciones inteligente, con colecciones para **atracciones**, **empleados** y **visitantes**. Se incluyen scripts para inicializar la base de datos, ejecutar consultas de ejemplo y eliminar la base de datos.
 
